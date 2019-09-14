@@ -11,6 +11,6 @@ I create the models to be sent to the server, a submit service and a fake struct
 
 When it is created I add a little form to the html. I add it to the ts component, add events, the random sheet generation and that is all.
 
-As the sheet generation is random, is really hard to find an approved or referred example with the web app, so I included some example in the code.
+As the sheet generation is random, is really hard to find an approved or referred example with the web app, so I included some examples in the code.
 
 To use it, open the project and run ng serve -o. Open a web browser and enter localhost:4200. The Rest API should be running as well (localhost:5000) to get a response.
